@@ -1,0 +1,39 @@
+.starter-template{
+    margin-top: 40px;
+}
+
+.starter-template ul{
+    list-style-type: none;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.starter-template ul span{
+    float:right;
+}
+
+.starter-template ul li:nth-child(1){
+    font-weight: 700;
+    margin-bottom: 8px;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.soc-size i{
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.cat-div {
+    overflow: hidden;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+}
+
+.cat-div img{
+    width: 100px;
+    height: auto;
+    margin-top: 100px;
+}
